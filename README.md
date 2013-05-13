@@ -2,14 +2,17 @@ atom_rc
 =======
 
 
-atom 3D printer based on RepRap
+atom 3D Printer based on RepRap
 
 
 About this printer;
 
 This is "atom" open-source 3D printer based on RepRap project, and the base structure is Prusa i3.
 
+All CAD data is built from scratch in Japan. 
+
 The scale of this printer is Reprap Huxley and print area on XY is same, but Z is bit higher. 
+
 
 atom aims to fit in small space since most of desktop environment is not that big in Japanese residence.
 
@@ -24,7 +27,7 @@ X-carriage is compatible with Huxley Extruder and its Hotend.
 
 ------------------------------------------------------------------
 
-This atom printer is RC version.
+This atom 3D Printer is RC version.
 More file format will be coming soon.
 
 
