@@ -11,7 +11,7 @@ This is "atom" open-source 3D printer based on RepRap project, and the base stru
 
 The scale of this printer is Reprap Huxley and print area on XY is same, but Z is bit higher. 
 
-atom 3D Printer aims to fit in small space since most of desktop environment is not that big in Japanese residence.
+atom aims to fit in small space since most of desktop environment is not that big in Japanese residence.
 
 atom takes this form as a part of RepRap project and is respecting Prusa i3.
 
