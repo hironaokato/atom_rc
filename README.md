@@ -37,7 +37,9 @@ More file format will be coming soon.
 RepRap official: http://www.reprap.org
 
 RepRap Community Japan on Facebook: https://www.facebook.com/ReprapCommunityJapan
+
 RepRap Community Japan on Mixi:  http://c.mixi.jp/reprap 
+
 RepRap Community Japan Archive:  https://sites.google.com/site/reprapcommunityjapan/
 
 Prusa i3 Github:  https://github.com/josefprusa/Prusa3
