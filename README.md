@@ -30,11 +30,25 @@ X-carriage is compatible with Huxley Extruder and its Hotend.
 This atom 3D Printer is RC version.
 More file format will be coming soon.
 
+------------------------------------------------------------------
+
+Required mechanical parts list for main body;
+M6 Threaded rod: 160mm x4,  275mm x2
+M5 Threaded rod: 150mm x2
+6mm linear shaft: 270mm x4, 230mm x2
+GT2 OR T2.5 Timing Pulley and Belt: x2
+Aluminum or Wood square frame: x1
+Aluminum or Wood Y frog frame: x1
+Teflon Bush 6mm(in) 8mm(out): x8
+LM6UU Linear Bush: x4
+624ZZ Linear Bearing: x2
+
+Required Extruder and hotend;
+
+atom can use Huxley bowden extruder set OR Genkei bowden extruder set
 
 
-
-
-
+------------------------------------------------------------------
 
 
 RepRap official: http://www.reprap.org
