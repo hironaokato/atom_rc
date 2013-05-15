@@ -52,10 +52,12 @@ LM6UU Linear Bush: x4
 
 624ZZ Linear Bearing: x2
 
+Bolts and Nuts of M3, M4, M5, M6
+
 
 Required Extruder and hotend;
 
-atom can use Huxley bowden extruder set OR Genkei bowden extruder set
+atom can use Huxley bowden extruder hotend set OR Genkei bowden extruder hotend set.
 
 
 ------------------------------------------------------------------
