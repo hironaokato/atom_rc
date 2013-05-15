@@ -46,9 +46,9 @@ Aluminum or Wood square frame: x1
 
 Aluminum or Wood Y frog frame: x1
 
-Teflon Bush 6mm(in) 8mm(out): x8
+Teflon Bush 6mm(in) 8mm(out): x8 (if you want to use linear bearings for Yaxis, then please subtract 4pcs, total 4pcs)
 
-LM6UU Linear Bush: x4
+LM6UU Linear Bush: x4 (if you want to use linear bearings for Yaxis, then please add 4pcs, total 8pcs)
 
 624ZZ Linear Bearing: x2
 
