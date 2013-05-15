@@ -40,7 +40,7 @@ M5 Threaded rod: 150mm x2
 
 6mm linear shaft: 270mm x4, 230mm x2
 
-GT2 OR T2.5 Timing Pulley and Belt: x2
+GT2 OR T2.5 Timing Pulley and Belt(6mm width): x2
 
 Aluminum or Wood square frame: x1
 
