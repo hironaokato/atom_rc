@@ -23,7 +23,7 @@ Size of bot:  340 x 275 x 270(Z)mm
 Print area: 140 x 140 x 140(Z)mm
 
 
-X-carriage is compatible with Huxley Extruder and its Hotend.
+X-carriage is compatible with Huxley Extruder and its Hotend or Genkei Extruder and its Hotend.
 
 ------------------------------------------------------------------
 
