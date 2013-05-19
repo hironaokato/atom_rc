@@ -40,7 +40,9 @@ M5 Threaded rod: 150mm x2
 
 6mm linear shaft: 270mm x4, 230mm x2
 
-GT2 OR T2.5 Timing Pulley and Belt(6mm width): x2
+GT2 OR T2.5 Timing Pulley (GT2 20tooth pulley is recommended): x2
+
+GT2 OR T2.5 Timing Belt 6mm width: 550mm x1(X), 455mm x1(Y), these lentghs are for GT2 20tooth pulley.
 
 Aluminum or Wood square frame: x1
 
