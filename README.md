@@ -42,7 +42,7 @@ M5 Threaded rod: 150mm x2
 
 GT2 OR T2.5 Timing Pulley (GT2 20tooth pulley is recommended): x2
 
-GT2 OR T2.5 Timing Belt 6mm width: 550mm x1(X), 455mm x1(Y), these lentghs are for GT2 20tooth pulley.
+GT2 OR T2.5 Timing Belt 6mm width: 580mm x1(X), 475mm x1(Y), these lentghs are for GT2 20tooth pulley.
 
 Aluminum or Wood square frame: x1
 
@@ -52,10 +52,36 @@ Teflon Bush 6mm(in) 8mm(out): x8 (if you want to use linear bearings on Y axis, 
 
 LM6UU Linear Bush: x4 (if you want to use linear bearings on Y axis, then please add 4pcs, total 8pcs)
 
-624ZZ Linear Bearing: x2
+624ZZ Radial Bearing: x2
 
-Bolts and Nuts of M3, M4, M5, M6
 
+M3 Nutx40 (+2for Genkei Extruder)
+
+M3 washer x5
+
+M3 10mm x38
+
+M3 15mm x14
+
+M3 20mm x2 (+2for Genkei Extruder)
+
+M3 25mm x
+
+M3 30mm x2 (+3for Genkei Extruder)
+
+M3 Super Flat 16mm x4
+
+M4 Nut x2
+
+M4 washer x4
+
+M4 20mm x2
+
+M5 Nut x2
+
+M6 Nut x24
+
+M6 washer x4
 
 Required Extruder and hotend;
 
