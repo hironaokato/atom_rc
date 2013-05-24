@@ -65,7 +65,7 @@ M3 15mm x14
 
 M3 20mm x2 (+2for Genkei Extruder)
 
-M3 25mm x
+
 
 M3 30mm x2 (+3for Genkei Extruder)
 
