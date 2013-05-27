@@ -36,7 +36,7 @@ Required mechanical parts list for main body;
 
 M6 Threaded rod: 160mm x4,  275mm x2
 
-M5 Threaded rod: 150mm x2
+M5 Threaded rod: 210mm x2
 
 6mm linear shaft: 270mm x4, 230mm x2
 
