@@ -79,9 +79,9 @@ M4 20mm x2
 
 M5 Nut x2
 
-M6 Nut x24
+M6 Nut x36
 
-M6 washer x4
+M6 washer xmin4 
 
 Required Extruder and hotend;
 
