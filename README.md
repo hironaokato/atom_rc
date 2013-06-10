@@ -57,7 +57,7 @@ LM6UU Linear Bush: x4 (if you want to use linear bearings on Y axis, then please
 
 M3 Nut x61minimum (+2for Genkei Extruder)
 
-M3 washer x5
+M3 washer x10
 
 M3 10mm x38
 
@@ -75,13 +75,13 @@ M4 Nut x2
 
 M4 washer x4
 
-M4 20mm x2
+M4 25mm x2
 
 M5 Nut x2
 
 M6 Nut x36
 
-M6 washer xmin4 (4 wider washers for holding sqaure frame and Y axis
+M6 washer xmin4 (4 wider washers for holding sqaure frame and Y axis.)
 
 Required Extruder and hotend;
 
