@@ -55,7 +55,7 @@ LM6UU Linear Bush: x4 (if you want to use linear bearings on Y axis, then please
 624ZZ Radial Bearing: x2
 
 
-M3 Nutx61 (+2for Genkei Extruder)
+M3 Nut x61minimum (+2for Genkei Extruder)
 
 M3 washer x5
 
@@ -81,11 +81,11 @@ M5 Nut x2
 
 M6 Nut x36
 
-M6 washer xmin4 
+M6 washer xmin4 (4 wider washers for holding sqaure frame and Y axis
 
 Required Extruder and hotend;
 
-atom can use Huxley bowden extruder hotend set OR Genkei bowden extruder hotend set.
+atom can use Huxley bowden extruder hotend set OR Genkei bowden extruder hotend set in default.
 
 
 ------------------------------------------------------------------
