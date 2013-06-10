@@ -55,7 +55,7 @@ LM6UU Linear Bush: x4 (if you want to use linear bearings on Y axis, then please
 624ZZ Radial Bearing: x2
 
 
-M3 Nutx40 (+2for Genkei Extruder)
+M3 Nutx61 (+2for Genkei Extruder)
 
 M3 washer x5
 
