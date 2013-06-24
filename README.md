@@ -31,6 +31,10 @@ This atom 3D Printer is RC version.
 More file format will be coming soon.
 
 ------------------------------------------------------------------
+x_end and x_motor has two versions which are one-piece and two pieces type.
+
+Use ones you want.
+
 
 Required mechanical parts list for main body;
 
